@@ -1,7 +1,7 @@
 # Hi there 👋, I am Yansh
 
 
-**I am a Developer and a Student. Interested in learning Machine Learning, Web Development and Design. Primarily specialise in Python and JavaScript but have tried many other languages. Open to collaborate on open-sourced Projects**
+**I am a Developer and a Student. Interested in learning Machine Learning, Web Development and Design. Primarily specialise in Python and JavaScript but have tried many other languages. Open to collaborate on open-sourced Projects.**
 
 
 - 📫 How to reach me: yansh2017@gmail.com
