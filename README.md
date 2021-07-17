@@ -15,6 +15,5 @@
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ya-nsh)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-nsh)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp; 
+https://github-readme-stats.vercel.app/api?username=ya-nsh&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,141E30,243B55&title_color=fff&text_color=fff
